@@ -2,7 +2,7 @@ import imgURL from '/coding.jpeg'
 import './mainpage.css'
 
 class MainPage {
-  render() {
+  render () {
     const content = /* html */`
             <div class="section mp">
                 <div class="columns">
