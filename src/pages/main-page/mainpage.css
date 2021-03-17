@@ -1,0 +1,27 @@
+h1.title.mp {
+    font-size: 3em;
+    font-family: 'Montserrat';
+}
+
+p.description.mp {
+    text-align: left;
+    font-size: 1.5em;
+    font-family: 'Courier Prime';
+    margin: 1em 0;
+    background-color: #d5dbd6;
+    padding: 0.5em 2em;
+    margin: 1em 2em;
+}
+
+button.button.mp {
+    margin: auto;
+}
+
+div.section.mp {
+    margin: 2em;
+}
+
+span.span.mp {
+    font-size: 0.9em;
+    font-family: 'Roboto Mono';
+}
